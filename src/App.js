@@ -36,7 +36,7 @@ function App() {
       
   {/* <Nav></Nav> */}
       <Routes>
-        <Route path='/' element={<AllMainFile></AllMainFile>}></Route>
+        <Route path='/NikeWebsiteClone' element={<AllMainFile></AllMainFile>}></Route>
         <Route path='/cart' element={<Cart></Cart>}></Route>
         <Route path='/feed' element={<SNKRS></SNKRS>}></Route>
 
